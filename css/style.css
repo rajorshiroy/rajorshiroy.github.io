@@ -1036,3 +1036,8 @@ h2 {
 		padding: 25px 45px;
 	}
 }
+
+.icon > img{
+	width: 25px;
+	height: 25px;
+}
